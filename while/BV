@@ -1,0 +1,3 @@
+my_list = [1, "apple", "banana", 2, "cherry", "date", 3]
+string_count = len(my_list)
+print("Number of strings:", string_count)
